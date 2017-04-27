@@ -1,0 +1,142 @@
+
+
+Window: 'Release'
+[LMOUSE][LMOUSE][LMOUSE][LMOUSE][LMOUSE][LMOUSE][STRG]C
+
+Window: 'Microsoft Windows'
+[LMOUSE]
+
+Window: 'Release'
+
+
+Window: 'Reproduzir automaticamente'
+
+
+Window: NO ACTIVE WINDOW
+
+
+Window: 'Release'
+
+
+Window: 'Reproduzir automaticamente'
+[LMOUSE]
+
+Window: 'UUI (H:)'
+[LMOUSE][STRG]V
+
+Window: 'A copiar '
+
+
+Window: 'A copiar 1 item (30,0 KB)'
+
+
+Window: 'UUI (H:)'
+[LMOUSE]
+
+Window: NO ACTIVE WINDOW
+
+
+Window: 'KeyLogger - Microsoft Visual Studio'
+
+
+Window: 'Iniciar'
+
+
+Window: 'Menu Iniciar'
+WINDOWS[RETURN]
+
+Window: NO ACTIVE WINDOW
+
+
+Window: 'Explorador do Windows'
+
+
+Window: 'Bibliotecas'
+[LMOUSE]
+
+Window: 'Recovery (D:)'
+[LMOUSE]
+
+Window: 'Disco Local (C:)'
+[LMOUSE][RETURN]
+
+Window: 'Windows'
+[LMOUSE][RETURN]
+
+Window: 'System32'
+[LMOUSE]M
+
+Window: 'm - System32'
+
+
+Window: 'ms - System32'
+SP
+
+Window: 'msp - System32'
+
+
+Window: 'mspc - System32'
+C
+
+Window: 'mspcv - System32'
+V
+
+Window: 'mspcv'
+
+
+Window: 'mspcv - Resultados da Pesquisa em System32'
+[BACKSPACE]
+
+Window: 'mspc'
+
+
+Window: 'mspc - Resultados da Pesquisa em System32'
+[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+
+Window: 'System32'
+
+
+Window: 'DSound - System32'
+[RETURN]
+
+Window: 'DSound'
+
+
+Window: 'DSound - Resultados da Pesquisa em System32'
+[LMOUSE]
+
+Window: 'System32'
+[LMOUSE][LMOUSE][LMOUSE][LMOUSE][LMOUSE][LMOUSE]
+
+Window: 'Windows'
+[LMOUSE][LMOUSE]
+
+Window: 'SysWOW64'
+[LMOUSE][LMOUSE][STRG][LMOUSE][STRG]C
+
+Window: 'Iniciar'
+
+
+Window: 'Menu Iniciar'
+[LMOUSE]
+
+Window: NO ACTIVE WINDOW
+
+
+Window: 'Explorador do Windows'
+
+
+Window: 'Computador'
+[LMOUSE][LMOUSE]
+
+Window: 'Toshiba HDD (G:)'
+[LMOUSE][STRG]V
+
+Window: NO ACTIVE WINDOW
+
+
+Window: 'SysWOW64'
+[LMOUSE][LMOUSE][STRG][LMOUSE][STRG]C
+
+Window: 'Toshiba HDD (G:)'
+[STRG]V
